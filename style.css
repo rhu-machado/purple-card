@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  
+  .um{
+    position: relative;
+    top: 20vw;
+    right: -35vw;
+    background-color: purple;
+    border-radius: 5%;
+    width: 25vw;
+    height: 38vw;
+  }
+  
+  .dois{
+    position: absolute;
+    background-color: red;
+    border-radius: 50%;
+    top: 3vw;
+    right: 18vw;
+    width: 3.5vw;
+    height: 3.5vw;
+  }
+  
+  .tres{
+    position: absolute;
+    background-color: rgba(220,180,0,0.9);
+    border-radius: 50%;
+    top: 3vw;
+    right: 15.5vw;
+    width: 3.5vw;
+    height: 3.5vw;
+  }
